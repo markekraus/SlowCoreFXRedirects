@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlowCoreFXRedirects", "Slow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServer", "TestServer\TestServer.csproj", "{B009BC35-990F-4FAD-ABC5-5BDAA65B0724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFrameworkRedirect", "ConsoleApp1\FastFrameworkRedirect.csproj", "{D590848D-DBEA-4F1B-9AA0-48896A13FCF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFrameworkRedirect", "FastFrameworkRedirect\FastFrameworkRedirect.csproj", "{D590848D-DBEA-4F1B-9AA0-48896A13FCF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
